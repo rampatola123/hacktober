@@ -1,0 +1,7 @@
+console.log("nikhil")
+setTimeout(function xyz(){
+   console.log("i am callback");
+   },4000);
+console.log("end");
+
+//here xyz is callback function
